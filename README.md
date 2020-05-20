@@ -1,4 +1,4 @@
-# FPSC-DTI: Drug-target interaction predicting based on super cluster and feature projection fuzzy classification
+# FPSC-DTI:
 
 ### Quick start:
 Run 'main.py'
